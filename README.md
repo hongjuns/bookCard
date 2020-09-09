@@ -1,7 +1,4 @@
-# Fast campus Online JavaScript Project
-
-[Slide](https://slides.com/woongjae/fc-javascript)
-
+# List Book 기능 추가 바랍니다.
 ```
 npm i
 npm start
